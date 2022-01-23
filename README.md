@@ -1,4 +1,4 @@
-# Secure-Cloud-Documents
+# Secure Cloud Documents
 This project demonstrates a way to secure personal files in the cloud server using user-end encryption and authentication methods. The project flow is given below.
 1. At first, the project will ask for a user password.
 2. After the password is provided, the project will create encryption key and HMAC key by using PBKDF2 (Password-Based Key Derivation Function 2).
